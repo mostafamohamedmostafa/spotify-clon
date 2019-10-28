@@ -1,0 +1,85 @@
+h1{font-weight: 600;
+text-align: center;
+font-size:40px;
+padding: 5px;
+color: honeydew;
+}
+
+h2,h3{font-weight: 300;
+    color: honeydew;
+    font-size: 20px;
+padding: 5px;}
+
+h4,h5,h6{font-weight: 200;
+    font-size: 15px;
+    padding: 5px;
+    color: honeydew;
+
+}
+
+.btn-primary{
+    padding: 5px;
+    color: aliceblue;
+    background-color: green;
+    font-size: 1.5rem;
+    margin: 10px;
+}
+
+.btn-primary:hover{
+
+    background-color:rgb(46, 236, 46);
+}
+
+.home{
+    height: 600px;
+    background-image: url('../img/nav-background.jpg');
+}
+
+.premium h4{
+    font-weight: 600;
+    color: black;
+    font-display: bold;
+    font-size: 1.5rem;
+}
+.premium p{
+    font-weight: 400;
+    color: black;
+    font-display: bold;
+    font-size: 1rem;
+}
+
+.plan h2,h3{
+    font-weight: 600;
+    color: black;
+    font-display: bold;
+    font-size: 1.5rem;
+}
+
+.plan ol{
+    font-weight: 500;
+    color: black;
+    font-display: bold;
+    font-size: 1rem;
+    list-style-type:georgian;
+
+}
+
+.spotify-footer{
+    background-color: black;
+}
+
+.spotify-footer .copy-right{
+    float: right;
+    padding: 0;
+}
+.spotify-footer .nav-item{
+    float: left;
+}
+
+
+.plan{
+    position: relative;
+    left: 15%;
+    margin: 5%;
+
+}
